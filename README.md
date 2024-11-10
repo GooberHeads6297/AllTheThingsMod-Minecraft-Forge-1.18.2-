@@ -63,4 +63,9 @@ Some Example recipes for how crafting in this mod works.
 
 ![picture (10)](https://github.com/user-attachments/assets/381ab5a3-5b79-47bc-bb4b-d843fb2ee8ac)
 
+![picture (12)](https://github.com/user-attachments/assets/95835e20-239f-4c4f-910b-650d83efbd2a)
+
+![picture (13)](https://github.com/user-attachments/assets/2838ee47-bffe-4896-9e7a-8f89cbff6bf1)
+
 I soon will make different versions compatible with this mod.
+
