@@ -1,6 +1,8 @@
 # AllTheThingsMod-Minecraft-Forge-1.18.2-
 A Minecraft mod that gives the user more recipes, armor, and tools to craft and use in their game. 
 
+![picture (1)](https://github.com/user-attachments/assets/42d9152d-d8b3-41a4-acfb-ae21526f5a45)
+
   HOW TO USE:
 
 Before you install make sure you have the latest version of Java install on your system.
@@ -26,3 +28,5 @@ Locate the .minecraft\mods directory then move or copy the mod into the folder. 
 Step 4. Play the game and realize you could've looked up a tutorial the entire time on Youtube.
 
 Step 5. Yippie you now have a minecraft mod!
+
+
