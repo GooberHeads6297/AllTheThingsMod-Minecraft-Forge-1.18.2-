@@ -58,4 +58,4 @@ Different Ores that generate in caves
 Mod returns old ore back into the game
 
 
-I soon will make differnt version compatible with this mod.
+I soon will make differnt versions compatible with this mod.
