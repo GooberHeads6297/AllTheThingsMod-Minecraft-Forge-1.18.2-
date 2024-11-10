@@ -29,4 +29,33 @@ Step 4. Play the game and realize you could've looked up a tutorial the entire t
 
 Step 5. Yippie you now have a minecraft mod!
 
+  What The Mod Offers:
 
+
+![picture (8)](https://github.com/user-attachments/assets/a93b771a-4ecd-435d-81b9-9092720b8075)
+
+Different Armor sets. Each set has its own set of tools
+
+
+![picture (3)](https://github.com/user-attachments/assets/eaf38e98-2356-4de5-9553-6d2a85fb96d8)
+
+You can Repair special mod items with wrenches
+
+
+![picture (2)](https://github.com/user-attachments/assets/bbae0b4b-ee81-44c7-b4cb-867515b6a19b)
+
+Depending on rarity of the item it may require better wrenches to repair
+
+
+![picture (5)](https://github.com/user-attachments/assets/0bc41423-38b9-43a8-8d04-5b4428c36e93)
+
+Different Ores that generate in caves
+
+![picture (7)](https://github.com/user-attachments/assets/1cd69295-8b6d-43e6-ad99-8de83f677608)
+
+![picture (6)](https://github.com/user-attachments/assets/2be5e70d-ebd0-4cef-bccb-09b67131a05e)
+
+Mod returns old ore back into the game
+
+
+I soon will make differnt version compatible with this mod.
