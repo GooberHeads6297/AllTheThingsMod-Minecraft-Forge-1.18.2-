@@ -57,5 +57,10 @@ Different Ores that generate in caves
 
 Mod returns old ore back into the game
 
+Some Example recipes for how crafting in this mod works.
+
+![picture (11)](https://github.com/user-attachments/assets/9d44eb2b-8f4b-4e19-9edd-776fcaf7a5d6)
+
+![picture (10)](https://github.com/user-attachments/assets/381ab5a3-5b79-47bc-bb4b-d843fb2ee8ac)
 
 I soon will make different versions compatible with this mod.
