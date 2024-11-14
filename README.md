@@ -9,7 +9,7 @@ Before you install make sure you have the latest version of Java install on your
 
 https://www.java.com/en/
 
-Step 1. Requires Forge 1.18.2 - 40.2.0 or above.
+Step 1. Requires Forge 1.18.2 - 40.2.21.
 
 Link to Forge: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html
 
