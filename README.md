@@ -9,15 +9,15 @@ Before you install make sure you have the latest version of Java install on your
 
 https://www.java.com/en/
 
-Step 1. Requires Forge 1.18.2 - 40.2.0 or above.
+Step 1. Requires Proper version of Forge depending on what version you install
 
-Link to Forge: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html
+Link to Forge: https://files.minecraftforge.net/net/minecraftforge/forge/
 
-Install and execute the correct version of the Forge loader 
+Install and execute the correct version of the Forge loader (You may need to select the right tab for the version of this mod that's required)
 
 Then restart your Minecraft launcher
 
-Step 2. Requires Minecraft: Java Edition (Forge 1.18.2)
+Step 2. Requires Minecraft: Java Edition (1.18.2, or 1.16.5)
 
 Step 2 and a half. Please don't pirate Minecraft just to play this mod.
 
